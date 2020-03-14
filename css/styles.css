@@ -51,6 +51,12 @@ body {
 	background:linear-gradient(to bottom, rgb(21,61,107) 0%, rgb(38,137,212) 100%);
 }
 
+.main {
+  background-image: url(../images/ruben.jpeg);
+  background-size: cover;
+  background-position: top right;
+}
+
 img {
   width: 300px;
   border:4px solid black;
