@@ -85,7 +85,7 @@ body
 .main_about_me {
   background-image: url(../images/life.jpg);
   background-repeat: no-repeat;
-  background-size: auto;
+  background-size: contain;
   background-position: top right;
 }
 .main_personal_works {
