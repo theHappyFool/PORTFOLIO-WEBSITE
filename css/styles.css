@@ -11,7 +11,8 @@ https://coolors.co/f7fff7-343434-2f3061-ffe66d-a1c6d7
 
 /* Global styles
 ------------------------------------*/
-html {
+html 
+{
   box-sizing: border-box;
 }
 *, *:before, *:after {
@@ -19,7 +20,8 @@ html {
 }
 /* BODY
 ------------------------------------*/
-body {
+body 
+{
   background-color: black;
   color: #00120B;
   margin: 0;
@@ -30,7 +32,8 @@ body {
 }
 /* MENU LAYOUT
 ------------------------------------*/
-.menu {
+.menu 
+{
     display: flex;
     flex-direction: row;
     justify-content: center;
@@ -39,7 +42,8 @@ body {
 }
 /* BUTTONS
 ------------------------------------*/
-.activeButton, .button, .projectButton {
+.activeButton, .button, .projectButton 
+{
 	padding:20px;
 	margin:20px;
 	border:4px solid;
@@ -80,7 +84,8 @@ body {
 }
 .main_about_me {
   background-image: url(../images/life.jpg);
-  background-size: cover;
+  background-repeat: no-repeat;
+  background-size: auto;
   background-position: top right;
 }
 .main_personal_works {
