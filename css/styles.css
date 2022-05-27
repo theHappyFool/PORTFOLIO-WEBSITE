@@ -96,14 +96,14 @@ body
 {
   background-image: url(../images/post_it.jpg);
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
   background-position: top right;
 }
 .main_contact 
 {
   background-image: url(../images/contact.jpg);
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
   background-position: top right;
 }
 
