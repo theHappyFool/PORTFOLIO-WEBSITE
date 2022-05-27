@@ -179,6 +179,13 @@ p
   margin: 0 auto;
   padding: 10px 0;
 }
+.content-wrap2 
+{     /*PLACES CONTENT IN CENTER*/
+  max-width: 1000px;
+  width: 85%;
+  margin: 0 auto;
+  color:cyan;
+}
 .enlarge:hover
 {			/*SHOWS IMAGES CAN BE CLICKED TO ENLARGE*/
 	cursor: zoom-in
