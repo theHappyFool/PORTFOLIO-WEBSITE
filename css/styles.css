@@ -80,14 +80,13 @@ body
 ------------------------------------*/
 .main_home 
 {
-  background-image: url(../images/ruben.jpg);
-  background-repeat: no-repeat;
+  background-image: url(../images/ruben.JPG);
   background-size: cover;
   background-position: top right;
 }
 .main_about_me 
 {
-  background-image: url(../images/life.jpg);
+  background-image: url(../images/life.JPG);
   background-repeat: no-repeat;
   background-size: contain;
   background-position: top right;
@@ -95,14 +94,12 @@ body
 .main_personal_works 
 {
   background-image: url(../images/post_it.jpg);
-  background-repeat: no-repeat;
   background-size: cover;
   background-position: top right;
 }
 .main_contact 
 {
   background-image: url(../images/contact.jpg);
-  background-repeat: no-repeat;
   background-size: cover;
   background-position: top right;
 }
